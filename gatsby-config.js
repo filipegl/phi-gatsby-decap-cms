@@ -76,7 +76,12 @@ module.exports = {
         printRejected: true,
       },
     }, // must be after other CSS plugins
-    "gatsby-plugin-netlify-identity-widget",
+    {
+      resolve: "gatsby-plugin-netlify-identity-widget",
+      options: {
+        container: "#netlify-modal",
+      },
+    },
     "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
 };
