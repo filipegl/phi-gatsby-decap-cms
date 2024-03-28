@@ -74,7 +74,7 @@ const Footer = () => {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="whatsapp" href="https://whatsapp.com">
+                <a title="whatsapp" href="https://wa.me/message/5GFWE2TIOQXZD1">
                   <img
                     src={whatsapp}
                     alt="Whatsapp"

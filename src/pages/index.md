@@ -1,49 +1,31 @@
 ---
 templateKey: index-page
-title: Café excelente com consciência
+title: "Phi Cafés: A Perfeição em Cada Xícara"
 image: /img/home-jumbotron.jpg
-heading: Café excelente com consciência
-subheading: Apoie a agricultura sustentável enquanto desfruta de uma xícara
+heading: "Harmonia Perfeita: A Arte e Ciência do Café na Phi Cafés Especiais"
+subheading: Experimente a harmonia da matemática da natureza em cada café que oferecemos.
 mainpitch:
-  title: Por que Kaldi
+  title: Por que Phi?
   description: >
-    Kaldi é a loja de café para todos que acreditam que um ótimo café
-    não deve apenas ter bom gosto, mas também fazer o bem. Nós obtemos todos os nossos grãos
-    diretamente de agricultores sustentáveis de pequena escala e garantimos que parte dos
-    lucros seja reinvestida em suas comunidades.
+    Phi Cafés Especiais é a torrefação para aqueles que buscam uma experiência de café
+    autêntica e de qualidade superior. Selecionamos grãos excepcionais, provenientes
+    de origem única, para garantir um perfil de sabor que ressoa com a proporção
+    áurea - a perfeição em cada xícara.
 description: >-
-  Kaldi é o lugar ideal para amantes do café que querem aprender sobre a origem de seu
-  java e apoiar os agricultores que o cultivaram. Levamos a produção de café,
-  torrefação e preparo a sério e estamos felizes em passar esse conhecimento para
-  qualquer um.
+  Inspirada na perfeição da razão áurea, a Phi Cafés Especiais é mais do que uma loja de café, é uma ode à harmonia e ao equilíbrio que o Phi simboliza. Nossos cafés são cuidadosamente selecionados para refletir essa proporção divina, oferecendo sabores que são um verdadeiro tributo à beleza matemática. Cada gole é uma experiência que alia a arte da cafeicultura à precisão da razão áurea, criando uma sinfonia de aromas e sabores que ressoam com a perfeição da natureza. Descubra a essência do café em sua forma mais sublime na Phi Cafés Especiais.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        Vendemos grãos de café verde e torrado que são obtidos diretamente de
-        agricultores independentes e cooperativas agrícolas. Temos orgulho de oferecer uma
-        variedade de grãos de café cultivados com grande cuidado pelo meio ambiente e
-        comunidades locais. Confira nosso post ou entre em contato conosco diretamente para
-        disponibilidade atual.
-    - image: /img/coffee-gear.png
-      text: >
-        Oferecemos uma seleção pequena, mas cuidadosamente curada, de equipamentos de preparo e
-        ferramentas para todos os gostos e níveis de experiência. Não importa se você torra seus
-        próprios grãos ou acabou de comprar sua primeira prensa francesa, você encontrará um
-        gadget para se apaixonar em nossa loja.
+        Na Phi Cafés Especiais, oferecemos grãos de café torrado de origem única,
+        adquiridos diretamente de produtores dedicados. Nosso café é cultivado com respeito
+        ao meio ambiente e às comunidades locais, refletindo a proporção divina em cada
+        sabor único. Explore nossas cafés exclusivos e entre em contato para saber mais
+        sobre a disponibilidade.
     - image: /img/tutorials.png
       text: >
-        Ama um ótimo café, mas nunca soube como fazer um? Comprou um novo Chemex chique mas não
-        tem ideia de como usá-lo? Não se preocupe, estamos aqui para ajudar. Você pode agendar uma
-        consulta personalizada 1-on-1 com nossos baristas para aprender tudo o que quiser saber
-        sobre torrefação e preparo de café. Envie-nos um email ou ligue para a loja para obter
-        detalhes.
-    - image: /img/meeting-space.png
-      text: >
-        Acreditamos que um bom café tem o poder de reunir as pessoas. É por isso que decidimos
-        transformar um canto de nossa loja em um espaço de encontro aconchegante onde você pode
-        se encontrar com outros amantes do café e aprender sobre técnicas de preparo de café. Todas
-        as obras de arte expostas lá estão à venda. O preço total que você paga vai para o artista.
+        Quer aprimorar suas habilidades de barista ou aprender novas técnicas de preparo?
+        Mergulhe no mundo do café com nossos vídeos tutoriais exclusivos disponíveis no site da Phi Cafés Especiais e em nosso Instagram @phicafesespeciais. Aprenda com nossos especialistas as melhores técnicas de preparo e descubra os segredos para um café perfeito. Nossos tutoriais são projetados para inspirar e educar, seja você um novato ou um conhecedor de café.
   heading: O que oferecemos
   description: >
     Kaldi é o lugar ideal para amantes do café que querem aprender sobre a origem de seu

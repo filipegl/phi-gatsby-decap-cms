@@ -53,7 +53,7 @@ const BlogRollTemplate = (props) => {
                 <br />
                 <br />
                 <Link className="button" to={post.fields.slug}>
-                  Keep Reading →
+                  Continue Lendo →
                 </Link>
               </p>
             </article>
@@ -91,7 +91,7 @@ export default function BlogRoll() {
                 frontmatter {
                   title
                   templateKey
-                  date(formatString: "MMMM DD, YYYY")
+                  date(formatString: "DD MMMM YYYY", locale: "pt-BR")
                   featuredpost
                   featuredimage {
                     childImageSharp {
