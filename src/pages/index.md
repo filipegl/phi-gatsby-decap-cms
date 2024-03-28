@@ -1,70 +1,69 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Café excelente com consciência
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Café excelente com consciência
+subheading: Apoie a agricultura sustentável enquanto desfruta de uma xícara
 mainpitch:
-  title: Why Kaldi
+  title: Por que Kaldi
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Kaldi é a loja de café para todos que acreditam que um ótimo café
+    não deve apenas ter bom gosto, mas também fazer o bem. Nós obtemos todos os nossos grãos
+    diretamente de agricultores sustentáveis de pequena escala e garantimos que parte dos
+    lucros seja reinvestida em suas comunidades.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Kaldi é o lugar ideal para amantes do café que querem aprender sobre a origem de seu
+  java e apoiar os agricultores que o cultivaram. Levamos a produção de café,
+  torrefação e preparo a sério e estamos felizes em passar esse conhecimento para
+  qualquer um.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Vendemos grãos de café verde e torrado que são obtidos diretamente de
+        agricultores independentes e cooperativas agrícolas. Temos orgulho de oferecer uma
+        variedade de grãos de café cultivados com grande cuidado pelo meio ambiente e
+        comunidades locais. Confira nosso post ou entre em contato conosco diretamente para
+        disponibilidade atual.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Oferecemos uma seleção pequena, mas cuidadosamente curada, de equipamentos de preparo e
+        ferramentas para todos os gostos e níveis de experiência. Não importa se você torra seus
+        próprios grãos ou acabou de comprar sua primeira prensa francesa, você encontrará um
+        gadget para se apaixonar em nossa loja.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Ama um ótimo café, mas nunca soube como fazer um? Comprou um novo Chemex chique mas não
+        tem ideia de como usá-lo? Não se preocupe, estamos aqui para ajudar. Você pode agendar uma
+        consulta personalizada 1-on-1 com nossos baristas para aprender tudo o que quiser saber
+        sobre torrefação e preparo de café. Envie-nos um email ou ligue para a loja para obter
+        detalhes.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Acreditamos que um bom café tem o poder de reunir as pessoas. É por isso que decidimos
+        transformar um canto de nossa loja em um espaço de encontro aconchegante onde você pode
+        se encontrar com outros amantes do café e aprender sobre técnicas de preparo de café. Todas
+        as obras de arte expostas lá estão à venda. O preço total que você paga vai para o artista.
+  heading: O que oferecemos
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Kaldi é o lugar ideal para amantes do café que querem aprender sobre a origem de seu
+    java e apoiar os agricultores que o cultivaram. Levamos a produção de café,
+    torrefação e preparo a sério e estamos felizes em passar esse conhecimento para
+    qualquer um. Esta é uma edição via identidade...
 main:
-  heading: Great coffee with no compromises
+  heading: Café excelente sem compromissos
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Mantemos nosso café nos mais altos padrões desde o arbusto até a xícara.
+    É por isso que somos meticulosos e transparentes sobre cada etapa da jornada do café.
+    Visitamos pessoalmente cada fazenda para garantir que as condições sejam
+    ótimas para as plantas, agricultores e o meio ambiente local.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Um close-up de um filtro de papel cheio de café moído
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Uma xícara de café verde em uma mesa de madeira
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Grãos de café
     image: /img/products-grid1.jpg
 ---

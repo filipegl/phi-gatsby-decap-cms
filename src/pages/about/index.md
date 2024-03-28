@@ -1,19 +1,16 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Nossos valores
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Café cultivado à sombra
+O café é uma pequena árvore ou arbusto que cresce no sub-bosque da floresta em sua forma selvagem, e tradicionalmente era cultivado comercialmente sob outras árvores que forneciam sombra. A estrutura semelhante a uma floresta das fazendas de café sombreado fornece habitat para um grande número de espécies migratórias e residentes.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Origem única
+Café de origem única é o café cultivado dentro de uma única origem geográfica conhecida. Às vezes, isso é uma única fazenda ou uma coleção específica de grãos de um único país. O nome do café é então geralmente o lugar onde foi cultivado, até o grau disponível.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Agricultura sustentável
+Agricultura sustentável é o cultivo de maneiras sustentáveis baseado em um entendimento dos serviços ecossistêmicos, o estudo das relações entre organismos e seu ambiente. O que cresce onde e como é cultivado são uma questão de escolha e consideração cuidadosa pela natureza e comunidades.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Fonte direta
+Comércio direto é uma forma de fornecimento praticada por alguns torrefadores de café. Defensores das práticas de comércio direto promovem comunicação direta e negociação de preços entre comprador e agricultor, junto com sistemas que encorajam e incentivam a qualidade.

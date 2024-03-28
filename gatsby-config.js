@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "Phi Cafés",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Inspirada na perfeição da razão áurea, a Phi Cafés Especiais é mais do que uma loja de café, é uma ode à harmonia e ao equilíbrio que o Phi simboliza. Nossos cafés são cuidadosamente selecionados para refletir essa proporção divina, oferecendo sabores que são um verdadeiro tributo à beleza matemática. Descubra a essência do café em sua forma mais sublime na Phi Cafés Especiais.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",

@@ -2,10 +2,8 @@ import * as React from "react";
 import { Link } from "gatsby";
 
 import logo from "../img/logo.svg";
-import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
-import twitter from "../img/social/twitter.svg";
-import vimeo from "../img/social/vimeo.svg";
+import whatsapp from "../img/social/whatsapp.svg";
 
 const Footer = () => {
   
@@ -31,17 +29,12 @@ const Footer = () => {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        About
+                        Sobre
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                        Produtos
                       </Link>
                     </li>
                     <li>
@@ -62,44 +55,29 @@ const Footer = () => {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Últimos Posts
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Contact
+                        Contato
                       </Link>
                     </li>
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a>
-                <a title="twitter" href="https://twitter.com">
-                  <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com">
+              <div className="column is-2 social">
+                <a title="instagram" href="https://instagram.com/phicafesespeciais">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="whatsapp" href="https://whatsapp.com">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={whatsapp}
+                    alt="Whatsapp"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
