@@ -5,7 +5,7 @@ import BlogRoll from "../../components/BlogRoll";
 
 export default class BlogIndexPage extends React.Component {
   render() {
-    const phiBlue = "#0076d6"
+    const phiBlue = "#2619b1"
     return (
       <Layout>
         <div

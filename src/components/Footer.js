@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Link } from "gatsby";
 
-import logo from "../img/logo.svg";
+import logo from "../img/logofooter.svg";
 import instagram from "../img/social/instagram.svg";
 import whatsapp from "../img/social/whatsapp.svg";
 
@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="Phi logo"
             style={{ width: "14em", height: "10em" }}
           />
         </div>

@@ -13,8 +13,8 @@ const Navbar = () => {
     >
       <div className="container">
         <div className="navbar-brand">
-          <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+          <Link to="/" className="navbar-item" title="Phi">
+            <img src={logo} alt="Phi Logo" style={{ width: "88px" }} />
           </Link>
           {/* Hamburger menu */}
           <button

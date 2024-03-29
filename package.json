@@ -7,6 +7,7 @@
     "bulma": "^0.9.0",
     "decap-cms-app": "^3.0.12",
     "gatsby": "^4.0.0",
+    "gatsby-omni-font-loader": "^2.0.2",
     "gatsby-plugin-decap-cms": "^4.0.3",
     "gatsby-plugin-image": "^2.0.0",
     "gatsby-plugin-netlify": "^5.0.0",

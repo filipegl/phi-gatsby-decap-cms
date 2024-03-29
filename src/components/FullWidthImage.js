@@ -10,7 +10,7 @@ export default function FullWidthImage(props) {
     subheading,
     imgPosition = "top left",
   } = props;
-  const phiBlue = "#0076d6"
+  const phiBlue = "#2619b1"
   return (
     <React.Fragment>
       <div

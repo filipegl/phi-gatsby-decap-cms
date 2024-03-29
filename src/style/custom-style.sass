@@ -1,5 +1,8 @@
 @import ./variables.sass
 
+body
+    font-family: "Poppins"
+
 .navbar .navbar-menu
   box-shadow: none !important
 
@@ -54,13 +57,14 @@
     color: $phi-blue
     text-align: center
     -webkit-box-shadow: inset 0 0 0 2px #0d66d2
-    box-shadow: inset 0 0 0 2px #1880ff
+    box-shadow: inset 0 0 0 2px $phi-blue
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
 .margin-top-0
   margin-top: 0 !important
-
+.navbar-item img
+  max-height: 3rem
 .navbar-item .icon
   color: $primary
 // Override for use of svg's from https://simpleicons.org/
