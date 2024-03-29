@@ -50,14 +50,13 @@ main:
     alt: Grãos de café
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Maria Juliana
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      A primeira vez que experimentei o café da Phi, nem acreditei que era
+      a mesma bebida [café] que eu tomava todas as manhãs.
+  - author: Moisés Ferreira
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Se você quer beber café de qualidade, pode comprar da Phi sem medo!
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Nossos Cafés
@@ -73,7 +72,7 @@ pricing:
       price: '35'
       image1:
         alt: Imagem do produto Café Áurea
-        image: /img/coffee.png
+        image: /img/logo-principal-marrom.png
     - description: "O Café Fibonacci destila a essência da sequência numérica em notas frutadas e doces,
      cada gole refletindo a ordem e a beleza encontradas na natureza. É a escolha perfeita para quem busca
     um café puro com nuances complexas e uma doçura natural."
@@ -85,7 +84,7 @@ pricing:
       price: '38'
       image1:
         alt: Imagem do produto Café Fibonacci
-        image: /img/coffee.png
+        image: /img/logo-principal-azul2.png
     - description: O Espresso Logarítmico é uma celebração das notas ricas e profundas que a natureza pode oferecer. Com um perfil de sabor que evoca a suavidade do chocolate e a sutileza das amêndoas, este café é meticulosamente calibrado para proporcionar uma experiência que é tão extraordinária quanto a própria função logarítmica. É a escolha ideal para os apreciadores de café que valorizam a profundidade e a riqueza em cada xícara.
       items:
         - "Torra média"
@@ -95,5 +94,5 @@ pricing:
       price: '32'
       image1:
         alt: Imagem do produto Espresso Logarítmico
-        image: /img/coffee.png
+        image: /img/logo-principal.png
 ---

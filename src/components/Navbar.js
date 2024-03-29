@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
+import { AnchorLink } from "gatsby-plugin-anchor-links";
+
 import logo from "../img/logo.svg";
 
 const Navbar = () => {
@@ -43,9 +45,9 @@ const Navbar = () => {
             </Link>
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
-            <Link className="navbar-item" to="/products">
+            <AnchorLink className="navbar-item" to="/products#products" title="Produtos">
               Produtos
-            </Link>
+            </AnchorLink>
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/blog">
@@ -55,11 +57,6 @@ const Navbar = () => {
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/contact">
               Contato
-            </Link>
-          </li>
-          <li className="navbar-item" style={{ padding: "0px" }}>
-            <Link className="navbar-item" to="/contact/examples">
-              Form Examples
             </Link>
           </li>
         </ul>

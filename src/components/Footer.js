@@ -1,5 +1,6 @@
 import * as React from "react";
 import { Link } from "gatsby";
+import { AnchorLink } from "gatsby-plugin-anchor-links";
 
 import logo from "../img/logofooter.svg";
 import instagram from "../img/social/instagram.svg";
@@ -33,9 +34,9 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
+                      <AnchorLink className="navbar-item" to="/products#products" title="Produtos">
                         Produtos
-                      </Link>
+                      </AnchorLink>
                     </li>
                     <li>
                       <a
