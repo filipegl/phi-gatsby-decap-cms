@@ -218,8 +218,16 @@ export const productPageQuery = graphql`
           plans {
             description
             items
-            plan
+            name
             price
+            image1 {
+              alt
+              image {
+                childImageSharp {
+                  gatsbyImageData(width: 526, quality: 92, layout: CONSTRAINED)
+                } 
+              }
+            }
           }
         }
       }

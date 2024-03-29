@@ -69,8 +69,11 @@ pricing:
         - "Torra média"
         - "Notas: Amendoas e Mel"
         - Doçura elevada
-      plan: Café Áurea
+      name: Café Áurea
       price: '35'
+      image1:
+        alt: Imagem do produto Café Áurea
+        image: /img/coffee.png
     - description: "O Café Fibonacci destila a essência da sequência numérica em notas frutadas e doces,
      cada gole refletindo a ordem e a beleza encontradas na natureza. É a escolha perfeita para quem busca
     um café puro com nuances complexas e uma doçura natural."
@@ -78,13 +81,19 @@ pricing:
         - "Torra média"
         - "Notas: Frutas amarelas, Ameixa seca e Caramelo"
         - Doçura e Uniformidade
-      plan: Café Fibonacci
+      name: Café Fibonacci
       price: '38'
+      image1:
+        alt: Imagem do produto Café Fibonacci
+        image: /img/coffee.png
     - description: O Espresso Logarítmico é uma celebração das notas ricas e profundas que a natureza pode oferecer. Com um perfil de sabor que evoca a suavidade do chocolate e a sutileza das amêndoas, este café é meticulosamente calibrado para proporcionar uma experiência que é tão extraordinária quanto a própria função logarítmica. É a escolha ideal para os apreciadores de café que valorizam a profundidade e a riqueza em cada xícara.
       items:
         - "Torra média"
         - "Notas: Chocolate e Caramelo"
         - Encorpado
-      plan: "Espresso Logarítmico"
+      name: "Espresso Logarítmico"
       price: '32'
+      image1:
+        alt: Imagem do produto Espresso Logarítmico
+        image: /img/coffee.png
 ---

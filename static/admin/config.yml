@@ -232,7 +232,7 @@ collections:
                     widget: list,
                     fields:
                       [
-                        { label: Plan, name: plan, widget: string },
+                        { label: Name, name: mame, widget: string },
                         { label: Price, name: price, widget: string },
                         {
                           label: Description,
@@ -240,6 +240,7 @@ collections:
                           widget: string,
                         },
                         { label: Items, name: items, widget: list },
+                        { label: Image, name: image1, widget: image },
                       ],
                   },
                 ],
