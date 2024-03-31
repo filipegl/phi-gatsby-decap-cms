@@ -7,7 +7,7 @@ description: Na Phi Cafés Especiais, cada grão é uma expressão da perfeiçã
   sabores e aromas que residem em cada cereja. Descubra como esses processos
   transformam a cereja do café em uma bebida que encanta nossos sentidos.
 featuredpost: true
-featuredimage: https://visty.vn/wp-content/uploads/2021/07/ca-phe-quang-tri-19-1400x788.jpg
+featuredimage: /img/ca-phe-quang.jpg
 tags:
   - processamento
 ---
