@@ -1,10 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { GatsbyImage } from "gatsby-plugin-image";
+import logo from "../img/logofooter.svg";
+import { AnchorLink } from "gatsby-plugin-anchor-links";
 
 export default function FullWidthImage(props) {
   const {
-    height = 400,
+    height = 700,
     img,
     title,
     subheading,
@@ -58,11 +60,23 @@ export default function FullWidthImage(props) {
               // By using the same grid area for both, they are stacked on top of each other
               gridArea: "1/1",
               position: "relative",
-              // This centers the other elements inside the hero component
-              placeItems: "center",
-              display: "grid",
+              display: "flex",
+              flexWrap: "wrap",
+              maxWidth: "70em",
+              justifyContent: "center",
+              alignItems: "center",
+              justifySelf: "center"
             }}
           >
+            <div style={{
+              flexGrow: 1,
+              flexDirection: "column",
+              flexBasis: '16em',
+              maxWidth: '70em',
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+            }}>
             {/* Any content here will be centered in the component */}
             {title && (
               <h1
@@ -95,6 +109,30 @@ export default function FullWidthImage(props) {
                 {subheading}
               </h3>
             )}
+            {/* IF BUTTON?,  */}
+            <AnchorLink 
+              className="btn btn-cover" 
+              to="/products#products"
+              title="Produtos"
+            >
+                Ver produtos
+            </AnchorLink>
+            </div>
+            <div style={{
+              flexGrow: 1,
+              flexBasis: '50%',
+              maxWidth: '50%',
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+            }}>
+              <img
+                src={logo}
+                alt="Phi logo"
+                style={{ width: "14em", height: "10em" }}
+              />
+            </div>
+
           </div>
         )}
       </div>
