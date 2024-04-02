@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: "Phi Cafés: A Perfeição em Cada Xícara"
-image: /img/home-jumbotron.jpg
+image: /img/home-phi-background.png
 heading: "Harmonia Perfeita: A Arte e Ciência do Café na Phi Cafés Especiais"
 subheading: Experimente a harmonia da matemática da natureza em cada café que oferecemos.
 mainpitch:
@@ -72,7 +72,7 @@ pricing:
       price: '35'
       image1:
         alt: Imagem do produto Café Áurea
-        image: /img/logo-principal-marrom.png
+        image: /img/aurea_frente.jpg
     - description: "O Café Fibonacci destila a essência da sequência numérica em notas frutadas e doces,
      cada gole refletindo a ordem e a beleza encontradas na natureza. É a escolha perfeita para quem busca
     um café puro com nuances complexas e uma doçura natural."
@@ -84,15 +84,15 @@ pricing:
       price: '38'
       image1:
         alt: Imagem do produto Café Fibonacci
-        image: /img/logo-principal-azul2.png
+        image: /img/fibo_frente.jpg
     - description: O Espresso Logarítmico é uma celebração das notas ricas e profundas que a natureza pode oferecer. Com um perfil de sabor que evoca a suavidade do chocolate e a sutileza das amêndoas, este café é meticulosamente calibrado para proporcionar uma experiência que é tão extraordinária quanto a própria função logarítmica. É a escolha ideal para os apreciadores de café que valorizam a profundidade e a riqueza em cada xícara.
       items:
         - "Torra média"
         - "Notas: Chocolate e Caramelo"
         - Encorpado
-      name: "Espresso Logarítmico"
+      name: "Café Logarítmico"
       price: '32'
       image1:
         alt: Imagem do produto Espresso Logarítmico
-        image: /img/logo-principal.png
+        image: /img/logaritmico_frente.jpg
 ---

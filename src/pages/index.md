@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: "Phi Cafés: A Perfeição em Cada Xícara"
-image: /img/home-jumbotron.jpg
+image: /img/home-phi-background.png
 heading: "Harmonia Perfeita: A Arte e Ciência do Café na Phi Cafés Especiais"
 subheading: Experimente a harmonia da matemática da natureza em cada café que oferecemos.
 mainpitch:

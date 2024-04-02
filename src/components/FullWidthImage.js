@@ -129,7 +129,7 @@ export default function FullWidthImage(props) {
               <img
                 src={logo}
                 alt="Phi logo"
-                style={{ width: "14em", height: "10em" }}
+                style={{ width: "18em", height: "14em" }}
               />
             </div>
 
