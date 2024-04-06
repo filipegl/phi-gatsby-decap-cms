@@ -46,6 +46,7 @@ export default class Index extends React.Component {
                 action="/contact/thanks/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
+                data-netlify-recaptcha="true"
                 onSubmit={this.handleSubmit}
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
@@ -56,6 +57,8 @@ export default class Index extends React.Component {
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
+                {/* <div class="g-recaptcha" data-sitekey="6Lf-irIpAAAAAGW4eNixZrYhgsMEGG-EUySjvGYE"/> */}
+                <div data-netlify-recaptcha="true"></div>
                 <div className="field">
                   <label className="label" htmlFor={"name"}>
                     Seu nome

@@ -1,6 +1,6 @@
 # Gatsby + Decap CMS Starter
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/668d4f47-bcdb-41f1-a1ed-7df6de691b01/deploy-status)](https://app.netlify.com/sites/beamish-belekoy-54fb70/deploys)
 
 **Note:** This starter uses [Gatsby v4](https://www.gatsbyjs.com/gatsby-4/).
 
