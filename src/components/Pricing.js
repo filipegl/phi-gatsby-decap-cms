@@ -14,7 +14,7 @@ const Pricing = ({ data }) => (
             <PreviewCompatibleImage imageInfo={price.image1} />
           </div>
           <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered">
-            R${price.price}
+            <a href="https://wa.me/c/558393108912" className="btn"><span>Fazer Pedido</span></a>
           </h2>
           <p className="has-text-weight-semibold">{price.description}</p>
           <ul>
