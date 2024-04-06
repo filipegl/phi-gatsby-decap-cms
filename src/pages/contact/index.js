@@ -1,7 +1,6 @@
 import * as React from "react";
 import { navigate } from "gatsby-link";
 import Layout from "../../components/Layout";
-import Recaptcha from "react-google-recaptcha";
 
 function encode(data) {
   return Object.keys(data)
@@ -22,22 +21,16 @@ export default class Index extends React.Component {
   handleSubmit = (e) => {
     e.preventDefault();
     const form = e.target;
-    if (this.state["g-recaptcha-response"]) {
-      fetch("/", {
-        method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: encode({
-          "form-name": form.getAttribute("name"),
-          ...this.state,
-        }),
-      })
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({
+        "form-name": form.getAttribute("name"),
+        ...this.state,
+      }),
+    })
         .then(() => navigate(form.getAttribute("action")))
         .catch((error) => alert(error));
-    }
-  };
-
-  handleRecaptcha = value => {
-    this.setState({ "g-recaptcha-response": value });
   };
 
   render() {
@@ -63,7 +56,6 @@ export default class Index extends React.Component {
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
-                <div data-netlify-recaptcha="true"></div>
                 <div className="field">
                   <label className="label" htmlFor={"name"}>
                     Seu nome
@@ -107,11 +99,7 @@ export default class Index extends React.Component {
                       required={true}
                     />
                   </div>          
-                  <Recaptcha
-                    ref="recaptcha"
-                    sitekey={process.env.SITE_RECAPTCHA_KEY}
-                    onChange={this.handleRecaptcha}
-                  />
+                  <div data-netlify-recaptcha="true"></div>
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
