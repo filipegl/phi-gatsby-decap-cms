@@ -57,6 +57,7 @@ const TemplateWrapper = ({ children }) => {
         class="whatsapp_float"
         target="_blank"
         rel="noopener noreferrer"
+        aria-label="Link to send Whatsapp message"
       >
         <i class="fa fa-whatsapp whatsapp-icon"></i>
       </a>

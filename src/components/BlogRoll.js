@@ -20,7 +20,7 @@ const BlogRollTemplate = (props) => {
             >
               <header>
                 {post?.frontmatter?.featuredimage && (
-                  <div className="featured-thumbnail">
+                  <div id="featured-thumb" className="featured-thumbnail" hidden={window.innerWidth < 768}>
                     <PreviewCompatibleImage
                       imageInfo={{
                         image: post.frontmatter.featuredimage,

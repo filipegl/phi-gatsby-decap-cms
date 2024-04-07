@@ -16,10 +16,11 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Phi">
-            <img src={logo} alt="Phi Logo" style={{ width: "88px" }} />
+            <img src={logo} alt="Phi Logo" style={{ width: "88px", height: "2em" }} />
           </Link>
           {/* Hamburger menu */}
           <button
+            id="burgerMenu"
             className={`navbar-burger burger ${isActive && "is-active"}`}
             aria-expanded={isActive}
             onClick={() => setIsActive(!isActive)}

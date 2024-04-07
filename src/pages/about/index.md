@@ -1,16 +1,25 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: Nossos valores
+title: Nossos Valores
 ---
-### Café cultivado à sombra
-O café é uma pequena árvore ou arbusto que cresce no sub-bosque da floresta em sua forma selvagem, e tradicionalmente era cultivado comercialmente sob outras árvores que forneciam sombra. A estrutura semelhante a uma floresta das fazendas de café sombreado fornece habitat para um grande número de espécies migratórias e residentes.
 
-### Origem única
-Café de origem única é o café cultivado dentro de uma única origem geográfica conhecida. Às vezes, isso é uma única fazenda ou uma coleção específica de grãos de um único país. O nome do café é então geralmente o lugar onde foi cultivado, até o grau disponível.
+## Qualidade Artística da Torra
+Na Phi, a arte da torra é um processo em que levamos à sério. Utilizamos tecnologia avançada para analisar meticulosamente as curvas de torra, garantindo que cada lote de café atinja a perfeição. Ajustamos cada detalhe da torra manualmente, respeitando o caráter único de cada grão.
 
-### Agricultura sustentável
-Agricultura sustentável é o cultivo de maneiras sustentáveis baseado em um entendimento dos serviços ecossistêmicos, o estudo das relações entre organismos e seu ambiente. O que cresce onde e como é cultivado são uma questão de escolha e consideração cuidadosa pela natureza e comunidades.
+A qualidade não é apenas um objetivo, é o nosso compromisso. Selecionamos apenas os melhores grãos, cultivados e colhidos com práticas sustentáveis, para garantir uma experiência excepcional em cada xícara.
 
-### Fonte direta
-Comércio direto é uma forma de fornecimento praticada por alguns torrefadores de café. Defensores das práticas de comércio direto promovem comunicação direta e negociação de preços entre comprador e agricultor, junto com sistemas que encorajam e incentivam a qualidade.
+## Parcerias Diretas & Impacto Real
+Também praticamos o comércio direto, estabelecendo uma conexão genuína com quem cultiva nossos grãos. Isso significa ir além das transações comerciais: **é criar um relacionamento de confiança e respeito mútuo com os produtores.** Por isso, apoiamos a agricultura familiar e pequenos produtores, ajudando-os a prosperar e a manter suas tradições vivas, garantindo que a qualidade do nosso café seja inigualável.
+
+Acreditamos que cada grão tem uma história para contar. Negociando diretamente com os agricultores, conhecemos a jornada de cada grão, desde o plantio até a colheita. Essa proximidade nos permite selecionar cafés que não apenas têm qualidade superior, mas também uma narrativa rica e autêntica. Assim, pagamos um preço justo pelos cafés que adquirimos. Isso não só assegura a qualidade excepcional que nossos clientes esperam, mas também apoia o bem-estar e o desenvolvimento sustentável dos produtores e suas comunidades.
+
+## A Matemática na Xícara: A Razão Áurea
+### Harmonia Perfeita
+Na Phi Cafés Especiais, a matemática não é apenas uma ciência, é uma arte que inspira nossa busca pela harmonia perfeita. A [razão áurea](https://pt.wikipedia.org/wiki/Propor%C3%A7%C3%A3o_%C3%A1urea), aproximadamente **1.618**
+, é um princípio que guia nosso trabalho, desde o design dos produtos até a seleção e preparo dos nossos cafés.
+### Precisão e Beleza
+Cada aspecto da Phi é cuidadosamente calculado para refletir a proporção divina. Assim como a razão áurea está presente na natureza e na arte, ela também pode ser encontrada na perfeição de uma xícara de café. Nossos processos são projetados para criar uma experiência que não é apenas esteticamente agradável, mas também matematicamente equilibrada.
+### Experiência Sensorial Única
+Assim como φ é mais do que um número, nosso café é mais do que uma bebida; é uma experiência sensorial que equilibra sabor, aroma e visual. A proporção áurea nos ajuda a criar essa experiência, garantindo que cada gole seja tão agradável quanto matematicamente harmonioso.
+

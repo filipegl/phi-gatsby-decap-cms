@@ -36,7 +36,7 @@ export const IndexPageTemplate = ({
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
+                      <h4 className="subtitle">{mainpitch.description}</h4>
                     </div>
                   </div>
                   <div className="columns">
@@ -47,7 +47,7 @@ export const IndexPageTemplate = ({
                       <p>{description}</p>
                     </div>
                   </div>
-                  <Features gridItems={intro.blurbs} />
+                  {intro && <Features gridItems={intro.blurbs} />}
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <AnchorLink className="btn" to="/products#products" title="Produtos">
@@ -142,8 +142,6 @@ export const pageQuery = graphql`
             }
             text
           }
-          heading
-          description
         }
       }
     }
