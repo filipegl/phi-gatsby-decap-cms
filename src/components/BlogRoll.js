@@ -1,14 +1,18 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 
 const BlogRollTemplate = (props) => {
-  
+  const [hide_feat_thumb, setHide_feat_thumb] = useState(false);
   const { edges: posts } = props.data.allMarkdownRemark;
-  const hide_feat_thumb = (typeof window !== "undefined") ? window.innerWidth < 768 : false
-
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      setHide_feat_thumb(window.innerWidth < 768)
+    }
+  }, [])
+  
   return (
     <div className="columns is-multiline">
       {posts &&
