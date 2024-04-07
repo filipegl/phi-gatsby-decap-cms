@@ -7,6 +7,7 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 const BlogRollTemplate = (props) => {
   
   const { edges: posts } = props.data.allMarkdownRemark;
+  const hide_feat_thumb = (typeof window !== "undefined") ? window.innerWidth < 768 : false
 
   return (
     <div className="columns is-multiline">
@@ -20,7 +21,7 @@ const BlogRollTemplate = (props) => {
             >
               <header>
                 {post?.frontmatter?.featuredimage && (
-                  <div id="featured-thumb" className="featured-thumbnail" hidden={window.innerWidth < 768}>
+                  <div id="featured-thumb" className="featured-thumbnail" hidden={hide_feat_thumb}>
                     <PreviewCompatibleImage
                       imageInfo={{
                         image: post.frontmatter.featuredimage,
