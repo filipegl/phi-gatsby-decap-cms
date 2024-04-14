@@ -2,6 +2,18 @@ import * as React from "react";
 import PropTypes from "prop-types";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
 
+function get_wpp_link(name) {
+  var wpp_link
+  if (name==="Café Áurea"){
+    wpp_link = "https://wa.me/p/25685274561063636/558393108912"
+  } else if (name==="Café Fibonacci") {
+    wpp_link = "https://wa.me/p/7265307683524603/558393108912"
+  } else if (name==="Café Logarítmico") {
+    wpp_link = "https://wa.me/p/7725210984185090/558393108912"
+  }
+  return wpp_link
+}
+
 const Pricing = ({ data }) => (
   <div className="columns">
     {data.map((price) => (
@@ -14,7 +26,7 @@ const Pricing = ({ data }) => (
             <PreviewCompatibleImage imageInfo={price.image1} />
           </div>
           <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered">
-            <a href="https://wa.me/c/558393108912" className="btn"><span>Fazer Pedido</span></a>
+            <a href={get_wpp_link(price.name)} className="btn"><span>Fazer Pedido</span></a>
           </h2>
           <p className="has-text-weight-semibold">{price.description}</p>
           <ul>

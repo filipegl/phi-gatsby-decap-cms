@@ -51,4 +51,4 @@ O processamento cereja descascado é uma inovação que equilibra a umidade e a 
 
 O processamento fermentado é uma jornada de descoberta sensorial que leva o café a novas fronteiras de sabor. Neste método, os grãos são submetidos a uma fermentação controlada, onde microrganismos específicos são introduzidos para transformar os açúcares e ácidos presentes no café. O resultado é uma bebida com perfis de sabor únicos, que podem variar de notas frutadas intensas, similares à framboesa, até sabores complexos e distintos.
 
-Na Phi, selecionamos nossos cafés pela qualidade, garantindo que cada gole reflita a harmonia e a perfeição que buscamos em tudo o que fazemos. Cada método de processamento é um componente crítico na equação do sabor, e é nossa missão compartilhar essa riqueza com você.
+Na Phi, selecionamos nossos cafés pela qualidade, garantindo que sua bebida reflita a harmonia e a perfeição que buscamos em tudo o que fazemos. **Cada método de processamento é um componente crítico na equação do sabor, e é nossa missão compartilhar essa riqueza com você.**

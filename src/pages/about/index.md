@@ -5,9 +5,9 @@ title: Nossos Valores
 ---
 
 ## Qualidade Artística da Torra
-Na Phi, a arte da torra é um processo em que levamos à sério. Utilizamos tecnologia avançada para analisar meticulosamente as curvas de torra, garantindo que cada lote de café atinja a perfeição. Ajustamos cada detalhe da torra manualmente, respeitando o caráter único de cada grão.
+Na Phi, a arte da torra é um processo que levamos à sério. Utilizamos tecnologia avançada para analisar meticulosamente as curvas de torra, garantindo que cada lote de café atinja a perfeição. Ajustamos todos os detalhes da torra manualmente, respeitando o caráter único de cada grão.
 
-A qualidade não é apenas um objetivo, é o nosso compromisso. Selecionamos apenas os melhores grãos, cultivados e colhidos com práticas sustentáveis, para garantir uma experiência excepcional em cada xícara.
+A qualidade não é apenas um objetivo, é o nosso compromisso. Selecionamos apenas os melhores grãos, cultivados e colhidos com práticas sustentáveis, para garantir uma experiência excepcional da bebida.
 
 ## Parcerias Diretas & Impacto Real
 Também praticamos o comércio direto, estabelecendo uma conexão genuína com quem cultiva nossos grãos. Isso significa ir além das transações comerciais: **é criar um relacionamento de confiança e respeito mútuo com os produtores.** Por isso, apoiamos a agricultura familiar e pequenos produtores, ajudando-os a prosperar e a manter suas tradições vivas, garantindo que a qualidade do nosso café seja inigualável.
@@ -21,5 +21,5 @@ Na Phi Cafés Especiais, a matemática não é apenas uma ciência, é uma arte 
 ### Precisão e Beleza
 Cada aspecto da Phi é cuidadosamente calculado para refletir a proporção divina. Assim como a razão áurea está presente na natureza e na arte, ela também pode ser encontrada na perfeição de uma xícara de café. Nossos processos são projetados para criar uma experiência que não é apenas esteticamente agradável, mas também matematicamente equilibrada.
 ### Experiência Sensorial Única
-Assim como φ é mais do que um número, nosso café é mais do que uma bebida; é uma experiência sensorial que equilibra sabor, aroma e visual. A proporção áurea nos ajuda a criar essa experiência, garantindo que cada gole seja tão agradável quanto matematicamente harmonioso.
+Assim como φ é mais do que um número, nosso café é mais do que uma bebida; é uma experiência sensorial que equilibra sabor, aroma e visual. A proporção áurea nos ajuda a criar essa experiência, garantindo que nossos cafés sejam tão agradáveis quanto matematicamente harmoniosos.
 
