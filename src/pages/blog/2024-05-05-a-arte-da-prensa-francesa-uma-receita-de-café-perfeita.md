@@ -5,31 +5,23 @@ date: 2024-05-05T15:34:00.000Z
 description: "O café é mais do que uma bebida; é uma experiência, uma ciência e
   uma arte. Hoje, vamos mergulhar na técnica de preparo de café que é tanto uma
   ciência quanto uma arte: a prensa francesa."
-featuredpost: true
+featuredpost: false
 featuredimage: https://th.bing.com/th/id/OIG2.Co4jcXzAzfoGEEEm9lkk?w=1024&h=1024&rs=1&pid=ImgDetMain
 tags:
   - receita
   - prensa
 ---
+![prensa francesa](https://th.bing.com/th/id/OIG2.Co4jcXzAzfoGEEEm9lkk?w=1024&h=1024&rs=1&pid=ImgDetMain)
+
 **Seleção do Grão: O Início de Tudo.** Tudo começa com a escolha do grão certo. Para nossa receita, escolhemos o café Áurea, conhecido por suas notas sensoriais adocicadas que lembram frutas amarelas, mel e amêndoas. A qualidade do grão é essencial para garantir o sabor final da nossa bebida.
-
-
 
 **A Moagem.** A moagem para a prensa francesa deve ser um pouco mais grossa. Isso evita que o café passe pela tela e acabe na sua xícara. Mas, mesmo com a moagem ideal, sempre teremos os ‘fines’, aquele farelinho que é resultado da moagem. É como partir um biscoito; o farelo é inevitável, e o mesmo acontece com o café.
 
-
-
 **A Extração: O Coração da Receita.**  Água fervendo é crucial para aumentar a extração dos sabores e aromas do café. Vamos despejar 240 ml de água sobre 20 g de café, mantendo a proporção ideal de 1:12. Depois de adicionar a água, aguardamos 4 minutos, permitindo que o café extraia em infusão.
-
-
 
 **A Finalização: Paciência e Precisão.** Após os primeiros quatro minutos, mexemos com uma colher e deixamos o êmbolo sobre a superfície da água por mais 4 minutos. Pressionamos lentamente para não agitar os fines; quanto menos pó na xícara, melhor.
 
-
-
 **A Melhor Parte: Servir.** Finalmente, a recompensa pelo nosso trabalho cuidadoso: servir o café. É como resolver uma equação complexa, onde cada passo é calculado e essencial para o resultado final.
-
-
 
 **Descubra Mais** Quer ver todo esse processo em ação? Confira nosso reels, onde mostramos cada passo detalhadamente, garantindo que você possa replicar essa receita infalível em casa. [Assista ao reels aqui](https://www.instagram.com/p/C6NEviksHE0/) e transforme sua próxima xícara de café em uma obra-prima.
 
