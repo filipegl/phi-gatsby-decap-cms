@@ -72,14 +72,14 @@ const Footer = () => {
                   <img
                     src={instagram}
                     alt="Instagram"
-                    style={{ width: "1em", height: "1em" }}
+                    style={{ width: "1.1em", height: "1em" }}
                   />
                 </a>
                 <a title="whatsapp" href="https://wa.me/message/5GFWE2TIOQXZD1">
                   <img
                     src={whatsapp}
                     alt="Whatsapp"
-                    style={{ width: "1em", height: "1em" }}
+                    style={{ width: "1.15em", height: "1em" }}
                   />
                 </a>
               </div>

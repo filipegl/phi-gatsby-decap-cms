@@ -22,10 +22,10 @@ testimonials:
   - author: Maria Juliana
     quote: >-
       A primeira vez que experimentei o café da Phi, nem acreditei que era
-      a mesma bebida [café] que eu tomava todas as manhãs.
-  - author: Moisés Ferreira
+      a mesma bebida [café] que eu tomava todo dia.
+  - author: Nícolas Leite
     quote: >-
-      Se você quer beber café de qualidade, pode comprar da Phi sem medo!
+      Aprovado, tá?! Café bom pra aumentar a produtividade matemática.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Nossos Cafés ☕
