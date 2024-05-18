@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import { SEO } from "../components/seo"
 
 // eslint-disable-next-line
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
@@ -62,3 +63,7 @@ export const aboutPageQuery = graphql`
     }
   }
 `;
+
+export const Head = () => (
+  <SEO title="Sobre a Phi Cafés Especiais" />
+)

@@ -7,6 +7,9 @@ module.exports = {
     title: "Phi Cafés",
     description:
       "Inspirada na perfeição da razão áurea, a Phi Cafés Especiais é mais do que uma loja de café, é uma ode à harmonia e ao equilíbrio que o Phi φ simboliza. Nossos cafés são cuidadosamente selecionados para refletir essa proporção divina, oferecendo sabores que são um verdadeiro tributo à beleza matemática. Descubra a essência do café em sua forma mais sublime na Phi Cafés Especiais.",
+    siteUrl: `https://phicafesespeciais.com.br`,
+    instagramUsername: `@phicafesespeciais`,
+    image: `img/logo-principal.png`
   },
   plugins: [
     "gatsby-plugin-react-helmet",

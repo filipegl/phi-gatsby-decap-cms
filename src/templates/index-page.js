@@ -10,6 +10,8 @@ import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
 
+import { SEO } from "../components/seo"
+
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
   image,
@@ -147,3 +149,23 @@ export const pageQuery = graphql`
     }
   }
 `;
+
+export const Head = () => (
+  <SEO>
+    <script type="application/ld+json">
+      {`
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "url": "https://www.phicafesespeciais.com.br",
+          "name": "Phi Cafés Especiais",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+55 83 9310-8912",
+            "contactType": "Whatsapp de vendas"
+          }
+        }
+      `}
+    </script>
+  </SEO>
+)

@@ -3,11 +3,12 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
-import Features from "../components/Features";
+// import Features from "../components/Features";
 import Testimonials from "../components/Testimonials";
 import Pricing from "../components/Pricing";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
+import { SEO } from "../components/seo"
 
 // eslint-disable-next-line
 export const ProductPageTemplate = ({
@@ -219,3 +220,7 @@ export const productPageQuery = graphql`
     }
   }
 `;
+
+export const Head = () => (
+  <SEO title="Produtos da Phi" />
+)

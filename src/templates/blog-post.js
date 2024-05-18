@@ -5,6 +5,7 @@ import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import { SEO } from "../components/seo"
 
 // eslint-disable-next-line
 export const BlogPostTemplate = ({
@@ -102,3 +103,7 @@ export const pageQuery = graphql`
     }
   }
 `;
+
+export const Head = () => (
+  <SEO />
+)
